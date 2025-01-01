@@ -1,15 +1,13 @@
-# task5
+Description
 
-A new Flutter project.
+This repository contains a simple Flutter application designed to display a birthday card image. It serves as a beginner-friendly project to understand the fundamentals of Flutter, including widget usage, asset management, and project structure.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+Displays a birthday card image using the Image widget.
+Demonstrates how to include and manage assets (images) in a Flutter project.
+Clean and minimalistic code structure, ideal for beginners.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
