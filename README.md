@@ -5,7 +5,9 @@ This repository contains a simple Flutter application designed to display a birt
 Features
 
 Displays a birthday card image using the Image widget.
+
 Demonstrates how to include and manage assets (images) in a Flutter project.
+
 Clean and minimalistic code structure, ideal for beginners.
 
 
